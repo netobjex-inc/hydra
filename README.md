@@ -25,7 +25,7 @@ For popular chains, one can use an already in-sync publicly available Indexer en
 Prerquisties
 
 ```text
-- NodeJs v12+
+- NodeJs v14+
 ```
 
 Run
