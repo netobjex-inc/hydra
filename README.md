@@ -22,7 +22,7 @@ For popular chains, one can use an already in-sync publicly available Indexer en
 
 ## Hydra CLI quickstart
 
-Prerquisties
+Prerequisites
 
 ```text
 - NodeJs v14+

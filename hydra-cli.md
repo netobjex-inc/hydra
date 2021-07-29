@@ -2,7 +2,7 @@
 
 A cli tool for running a [Hydra](https://joystream.org/hydra) query node
 
-## Prerquisties
+## Prerequisites
 
 ```text
 - NodeJs v14+
