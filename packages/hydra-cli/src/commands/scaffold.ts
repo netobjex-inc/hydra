@@ -195,7 +195,7 @@ export default class Scaffold extends Command {
     const projectName = (await input({
       message: 'Enter your project name',
     })) as string
-    ctx = { ...ctx, projectName }
+    ctx = { ...ctx, name: projectName }
 
     const iCtx = await this.promptIndexerURL(ctx)
     ctx = { ...ctx, ...iCtx }
